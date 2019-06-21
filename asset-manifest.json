@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hyundai/static/css/main.3b6f5eac.chunk.css",
+    "main.js": "/hyundai/static/js/main.e6602c46.chunk.js",
+    "main.js.map": "/hyundai/static/js/main.e6602c46.chunk.js.map",
+    "runtime~main.js": "/hyundai/static/js/runtime~main.f8e1a374.js",
+    "runtime~main.js.map": "/hyundai/static/js/runtime~main.f8e1a374.js.map",
+    "static/css/2.bb342caa.chunk.css": "/hyundai/static/css/2.bb342caa.chunk.css",
+    "static/js/2.e4f4a09c.chunk.js": "/hyundai/static/js/2.e4f4a09c.chunk.js",
+    "static/js/2.e4f4a09c.chunk.js.map": "/hyundai/static/js/2.e4f4a09c.chunk.js.map",
+    "index.html": "/hyundai/index.html",
+    "precache-manifest.25c67ddcc126ec8a8f2e83eb26924c4b.js": "/hyundai/precache-manifest.25c67ddcc126ec8a8f2e83eb26924c4b.js",
+    "service-worker.js": "/hyundai/service-worker.js",
+    "static/css/2.bb342caa.chunk.css.map": "/hyundai/static/css/2.bb342caa.chunk.css.map",
+    "static/css/main.3b6f5eac.chunk.css.map": "/hyundai/static/css/main.3b6f5eac.chunk.css.map"
+  }
+}
