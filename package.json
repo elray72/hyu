@@ -1,7 +1,7 @@
 {
-  "name": "swm",
+  "name": "hyundai",
   "version": "1.0.0",
-  "homepage": "https://elray72.github.io/swm/",
+  "homepage": "https://elray72.github.io/hyundai/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
